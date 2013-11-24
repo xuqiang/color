@@ -16,7 +16,7 @@
         101000003   37 87 248 蓝色
 
 
-    上面的映射关系将hsv色彩空间按照圆柱形分割。更多hsv介绍参考http://zh.wikipedia.org/zh-cn/HSV。hsv和rgb转换代码https://gist.github.com/xuqiang/6679838。
+    上面的映射关系将hsv色彩空间按照圆柱形分割。更多hsv介绍参考<http://zh.wikipedia.org/zh-cn/HSV>. hsv和rgb转换代码<https://gist.github.com/xuqiang/6679838>。
 
 
 2. 图片前景色提取
